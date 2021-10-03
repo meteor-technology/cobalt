@@ -351,6 +351,7 @@ public class MediaCodecUtil {
     vp9WhiteList.get("Sony").add("Amai VP9");
     vp9WhiteList.get("Sony").add("BRAVIA 4K 2015");
     vp9WhiteList.get("Sony").add("BRAVIA 4K GB");
+    vp9WhiteList.get("Sony").add("BRAVIA 4K VH2");
     vp9WhiteList.get("STMicroelectronics").add("sti4k");
     vp9WhiteList.get("SumitomoElectricIndustries").add("C02AS");
     vp9WhiteList.get("SumitomoElectricIndustries").add("ST4173");
